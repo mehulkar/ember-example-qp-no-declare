@@ -1,4 +1,4 @@
-# foo
+# ember-example-qp-no-declare
 
 ```bash
 git clone
